@@ -1,0 +1,4 @@
+find . -name "*build" -exec rm -rvf "{}" \;
+find . -name "*target" -exec rm -rvf "{}" \;
+find . -name "*DS_Store" -exec rm -rvf "{}" \;
+rm -rvf /Users/duchien/.m2/repository/com/badlogicgames/gdx
