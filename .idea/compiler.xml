@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gdx-box2d" />
+        <module name="gdx-backend-robovm" />
+        <module name="gdx-freetype" />
+        <module name="gdx-backend-android" />
+        <module name="gdx-backend-lwjgl3" />
+        <module name="gdx-box2d-platform" />
+        <module name="gdx-platform" />
+        <module name="gdx-jnigen" />
+        <module name="gdx-backend-gwt" />
+        <module name="gdx-freetype-platform" />
+        <module name="gdx-tools" />
+        <module name="gdx-bullet-platform" />
+        <module name="gdx-bullet" />
+        <module name="gdx" />
+        <module name="gdx-backend-moe" />
+        <module name="gdx-backend-lwjgl" />
+        <module name="gdx-backend-headless" />
+        <module name="gdx-box2d-gwt" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gdx" target="1.6" />
+      <module name="gdx-backend-android" target="1.6" />
+      <module name="gdx-backend-gwt" target="1.6" />
+      <module name="gdx-backend-headless" target="1.6" />
+      <module name="gdx-backend-lwjgl" target="1.6" />
+      <module name="gdx-backend-lwjgl3" target="1.8" />
+      <module name="gdx-backend-moe" target="1.6" />
+      <module name="gdx-backend-robovm" target="1.6" />
+      <module name="gdx-box2d" target="1.6" />
+      <module name="gdx-box2d-gwt" target="1.6" />
+      <module name="gdx-box2d-parent" target="1.6" />
+      <module name="gdx-box2d-platform" target="1.6" />
+      <module name="gdx-bullet" target="1.6" />
+      <module name="gdx-bullet-platform" target="1.6" />
+      <module name="gdx-freetype" target="1.6" />
+      <module name="gdx-freetype-platform" target="1.6" />
+      <module name="gdx-jnigen" target="1.6" />
+      <module name="gdx-parent" target="1.6" />
+      <module name="gdx-platform" target="1.6" />
+      <module name="gdx-tools" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

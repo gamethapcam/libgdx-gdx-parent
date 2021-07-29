@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backends/gdx-backend-android" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backends/gdx-backend-gwt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backends/gdx-backend-headless" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backends/gdx-backend-lwjgl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backends/gdx-backend-lwjgl3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backends/gdx-backend-moe" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/backends/gdx-backend-robovm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/gdx-box2d" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d-gwt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d/jni/maven" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/gdx-bullet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/gdx-bullet/jni/maven" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/gdx-freetype" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/gdx-freetype/jni/maven" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/gdx-jnigen" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extensions/gdx-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gdx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gdx/jni/maven" charset="UTF-8" />
+  </component>
+</project>

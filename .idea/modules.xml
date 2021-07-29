@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gdx/gdx.iml" filepath="$PROJECT_DIR$/gdx/gdx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backend-android/gdx-backend-android.iml" filepath="$PROJECT_DIR$/backends/gdx-backend-android/gdx-backend-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backend-gwt/gdx-backend-gwt.iml" filepath="$PROJECT_DIR$/backends/gdx-backend-gwt/gdx-backend-gwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backend-headless/gdx-backend-headless.iml" filepath="$PROJECT_DIR$/backends/gdx-backend-headless/gdx-backend-headless.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backend-lwjgl/gdx-backend-lwjgl.iml" filepath="$PROJECT_DIR$/backends/gdx-backend-lwjgl/gdx-backend-lwjgl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backend-lwjgl3/gdx-backend-lwjgl3.iml" filepath="$PROJECT_DIR$/backends/gdx-backend-lwjgl3/gdx-backend-lwjgl3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backend-moe/gdx-backend-moe.iml" filepath="$PROJECT_DIR$/backends/gdx-backend-moe/gdx-backend-moe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backends/gdx-backend-robovm/gdx-backend-robovm.iml" filepath="$PROJECT_DIR$/backends/gdx-backend-robovm/gdx-backend-robovm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d/gdx-box2d.iml" filepath="$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d/gdx-box2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d-gwt/gdx-box2d-gwt.iml" filepath="$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d-gwt/gdx-box2d-gwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d-parent.iml" filepath="$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d/jni/maven/gdx-box2d-platform.iml" filepath="$PROJECT_DIR$/extensions/gdx-box2d/gdx-box2d/jni/maven/gdx-box2d-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-bullet/gdx-bullet.iml" filepath="$PROJECT_DIR$/extensions/gdx-bullet/gdx-bullet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-bullet/jni/maven/gdx-bullet-platform.iml" filepath="$PROJECT_DIR$/extensions/gdx-bullet/jni/maven/gdx-bullet-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-freetype/gdx-freetype.iml" filepath="$PROJECT_DIR$/extensions/gdx-freetype/gdx-freetype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-freetype/jni/maven/gdx-freetype-platform.iml" filepath="$PROJECT_DIR$/extensions/gdx-freetype/jni/maven/gdx-freetype-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-jnigen/gdx-jnigen.iml" filepath="$PROJECT_DIR$/extensions/gdx-jnigen/gdx-jnigen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdx-parent.iml" filepath="$PROJECT_DIR$/gdx-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdx/jni/maven/gdx-platform.iml" filepath="$PROJECT_DIR$/gdx/jni/maven/gdx-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdx-tools/gdx-tools.iml" filepath="$PROJECT_DIR$/extensions/gdx-tools/gdx-tools.iml" />
+    </modules>
+  </component>
+</project>
